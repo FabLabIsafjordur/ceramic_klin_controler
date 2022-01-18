@@ -6,3 +6,6 @@
 
 ### controler panel
 ![panel](202588124_164571405691427_8074129390118268921_n.jpg)
+
+### support frame with ceramic gas nozzles to keep heating elements in place
+![panel](IMG_20220118_162630.jpg)
